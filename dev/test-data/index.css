@@ -1,0 +1,18 @@
+body {
+  background: black;
+}
+
+.myClass {
+  display: block;
+}
+
+.another-class {
+  color: #FFFFFF;
+}
+
+:global(.non-localized-class) {
+  background-color: rebeccapurple;
+}
+
+@import './sass-example.scss';
+@import './css-inside-folder/index.css';

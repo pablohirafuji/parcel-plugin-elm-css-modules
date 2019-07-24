@@ -1,0 +1,12 @@
+.myClass {
+  display: none;
+
+}
+
+.another {
+  display: none;
+}
+
+.another-class-inside-folder {
+  display: hidden;
+}
