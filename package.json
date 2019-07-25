@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-elm-css-modules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Parcel plugin for generating Elm file for your CSS Modules automatically.",
   "main": "src/index.js",
   "scripts": {
